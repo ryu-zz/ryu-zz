@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=speech&color=faacc8&fontColor=ffffff&height=200&section=header&text=Hello!%20Welcome%20to%20my%20space-nl-JIN’s%20project%20lab&fontSize=50&fontAlignY=33" />
+  <img src="https://capsule-render.vercel.app/api?type=speech&color=faacc8&fontColor=ffffff&height=200&section=header&text=Hello!%20Welcome%20to%20my%20space-nl-This%20is%20JIN’s%20project%20lab&fontSize=50&fontAlignY=33" />
 </div>
+>
 
 ---
 

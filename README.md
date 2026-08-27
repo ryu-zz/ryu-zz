@@ -135,8 +135,7 @@ AI 기반 의료 혁신과 사용자 경험(UX)에 관심을 넓혀가고 있습
 <summary>📜 Certification</summary>
 
 <br/>
-
-- TOEIC TBD / OPIc IM2  
+ 
 - ADsP    
 - Naver Cloud NCA 
 

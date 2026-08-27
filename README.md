@@ -134,8 +134,13 @@ AI 기반 의료 혁신과 사용자 경험(UX)에 관심을 넓혀가고 있습
 <details>
 <summary>📜 Certification</summary>
 
+- TBD
+- TBD
+- TBD
+
 <br/>
- 
+
+- TBD
 - ADsP    
 - Naver Cloud NCA 
 
@@ -181,7 +186,6 @@ AI 기반 의료 혁신과 사용자 경험(UX)에 관심을 넓혀가고 있습
 ---
 
 ## 📬 Email
-yj0619yj@naver.com  
-jin.yu@philips.com
+celine.j.yu@gmail.com
 
 ---

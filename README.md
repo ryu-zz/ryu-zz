@@ -62,7 +62,13 @@ AI 기반 의료 혁신과 사용자 경험(UX)에 관심을 넓혀가고 있습
 
 ## 🧑‍💼 Experience
 
-### **Philips — Solution Marketing Intern (2025.08 ~ Present)**
+
+### **성균관대학교 AWS·AI 전문가 양성과정 — 수강생 (2026.08 ~ Present)**
+- AWS(EC2, Lambda, SageMaker Endpoint) 기반 흉부 X-ray(CXR) 분류 및 전처리 에이전트 모델 배포
+- Kaggle RSNA 무릎 영상 대회 노트북 작성 및 제출
+- 현대 Pleos Connect 앱 개발 공모전 출품작 "연저씨" 개발: 차량 신호로 완료를 확인하는 운전 연수 앱
+  
+### **Philips — Solution Marketing Intern (2025.08 ~ 2026.03)**
 - APAC Smart Hospital 전략·레퍼런스 사이트 분석  
 - 디지털 헬스케어 Value Proposition 자료 제작   
 - 고객 세그먼트별 발표용 플레이북 개발  

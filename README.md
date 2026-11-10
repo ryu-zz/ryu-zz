@@ -14,7 +14,7 @@
 AI 기반 의료 혁신과 사용자 경험(UX)에 관심을 넓혀가고 있습니다.
 
 **전공:** 의료인공지능학과  
-**관심 분야:** Digital Health, Smart Hospital, Vision AI, Representation Learning, RL  
+**관심 분야:** Digital Health, Smart Hospital, Vision AI, RL  
 
 ---
 
